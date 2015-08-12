@@ -1,22 +1,22 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:           http://stanford.edu/group/stanford_atlas
+relative_permalinks: http://stanford.edu/group/stanford_atlas
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               Stanford ATLAS
+tagline:             'Fast TracKer'
+description:         'A journey to the fundamentals of the universe!'
+url:                 http://stanford.edu/group/stanford_atlas
+baseurl:             http://stanford.edu/group/stanford_atlas
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Lauren Tompkins
+  url:               https://physics.stanford.edu/people/faculty/lauren-tompkins
+  email:             laurenat@stanford.edu
 
 # Custom vars
 version:             1.0.0
