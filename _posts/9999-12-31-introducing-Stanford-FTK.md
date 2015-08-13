@@ -3,7 +3,11 @@ layout: post
 title: Introducing Stanford ATLAS FTK Group
 ---
 
-<img src="http://i.imgur.com/Ym4I0EK.png"/>
+<img src="http://i.imgur.com/Ym4I0EK.png"/> 
+<img src="http://i.imgur.com/Vh9TE2p.jpg"/>
+(From left to right) Zihao Jiang, Mingyu Kang, Rex Brown, Lauren Tompkins <br> <br>
+<img src="http://i.imgur.com/YQcYkVw.jpg"/> 
+(From left to right) Nikolina Ilic, Jeff Rowland <br> <br>
 
 * Welcome to Stanford ATLAS Fast TracKer Group!
 
