@@ -41,10 +41,16 @@ Nikolina Ilic obtained her bachelor's degree in Honors Mathematical Physics from
 
 ### Visiting students
 
-<b> Jeff Rowland </b> <br> Contact Info <br> Education/history
+<b> Victor Ruelas </b> <br>
 
-<b> Victor Ruelas </b> <br> Contact Info <br> Education/history
+<img src="http://i.imgur.com/PTq0owi.jpg?1" width="320" height="320"/>
+
+ruelasvh@gmail.com <br>
+
+Victor H. Ruelas-Rivera was awarded a bachelor's degree in Physics and Astronomy from Whitman College, a small liberal arts college in Washington state. At Whitman College he did research on the chemical composition of space dust particles by fitting data of stellar spectra to synthetic spectral energy distributions focusing mainly in the ultraviolet range. He also did work in computational physics and physics simulation where he simulated various physical systems such as capacitor plates, gaseous systems and mechanical systems. Victor then decided to pursue a High Energy Physics MS degree at the California State University, Fresno. Victor joined the Stanford group in 2014 as a visiting summer student and has done work such as efficiency studies of the Fast TracKer, an upgrade to the ATLAS trigger system, planned to operate in run 2 of the LHC. Also, he is currently working on creating a database for the Fast TracKer Data Formatter's configurations and integrate the database in the ATLAS main control system to load and unload configurations on demand. Victor has interests in large scale programming, quantum computing research and its applications, app development, data mining, and entrepreneurship. He also has other interests such as extraterrestrial life forms, climate change, world politics and sustainable and ecological business plan development.
 <br> <br>
+
+<b> Jeff Rowland </b> <br> Contact Info <br> Education/history <br> <br>
 
 ### Undergraduates
 
@@ -56,4 +62,3 @@ horray@stanford.edu <br>
 Mingyu Kang graduated Korean Minjok Leadership Academy (KMLA) in 2014. He joined Stanford University Class of 2018 as a B.A. candidate in physics. He first encountered physics by a science cartoon book about atomic and subatomic physics. No wonder why he is working in this wonderful group! His experience in International Young Physicists' Tournament (IYPT) also led him to physics research projects. Moreover, he is also deeply interested in producing music, and is planning to minor in Music, Science, and Technology. <br> <br>
 
 <b> Grace Busse </b> <br> Contact Info
-
