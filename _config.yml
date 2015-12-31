@@ -10,6 +10,9 @@ tagline:             'Fast TracKer, Higgs Physics and More'
 description:         'An experimental particle physics group at the energy frontier'
 url:                 http://stanford.edu/group/stanford_atlas
 baseurl:             http://stanford.edu/group/stanford_atlas
+#url:                 ''
+#baseurl:             ''
+
 paginate:            5
 
 # About/contact
